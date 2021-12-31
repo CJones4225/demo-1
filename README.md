@@ -1,2 +1,3 @@
 # demo-1
-demo for how too
+
+this is the repo demo
